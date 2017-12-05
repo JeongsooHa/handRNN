@@ -130,3 +130,11 @@ __pycache__
 .cache
 .coverage
 *.swp
+
+inception/*
+images/*
+__pycache__/*
+checkpoints/*
+.directory
+data/*
+tensorflow/*
